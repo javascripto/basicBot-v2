@@ -1,6 +1,8 @@
 Orginal basicBot [link](https://github.com/basicBot/source)
 
 # changelog
+
+[![Join the chat at https://gitter.im/javascripto/basicBot-v2](https://badges.gitter.im/javascripto/basicBot-v2.svg)](https://gitter.im/javascripto/basicBot-v2?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [0.0.1] - 2016-06-04 Added:
 - !clearchat changed into !cc
 - !thor changed into !slots
